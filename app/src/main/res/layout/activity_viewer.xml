@@ -38,6 +38,7 @@
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
         android:layout_width="wrap_content"
         android:id="@+id/registerbtn"
+        android:visibility="gone"
         android:layout_height="wrap_content"
         android:layout_gravity="center|bottom"
         android:text="REGISTER"

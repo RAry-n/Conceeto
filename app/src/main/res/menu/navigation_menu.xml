@@ -22,10 +22,10 @@
 <!--                    android:id="@+id/nav_scanqr"-->
 <!--                    android:icon="@drawable/baseline_qr_code_scanner_24"-->
 <!--                    android:title="@string/menu_qrscan"/>-->
-                <item
-                    android:id="@+id/nav_merchandise"
-                    android:icon="@drawable/ic_baseline_merchandise"
-                    android:title="@string/menu_merchandise"/>
+<!--                <item-->
+<!--                    android:id="@+id/nav_merchandise"-->
+<!--                    android:icon="@drawable/ic_baseline_merchandise"-->
+<!--                    android:title="@string/menu_merchandise"/>-->
 <!--                <item-->
 <!--                    android:id="@+id/nav_gatepass"-->
 <!--                    android:icon="@drawable/baseline_door_sliding_24"-->

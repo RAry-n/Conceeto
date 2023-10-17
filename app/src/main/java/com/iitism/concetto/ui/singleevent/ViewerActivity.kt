@@ -221,7 +221,6 @@ class ViewerActivity : AppCompatActivity() {
                         })
                         binding.loadingCardViewerActitivity.visibility = View.GONE
                         adapter.notifyDataSetChanged()
-                        binding.registerbtn.visibility = View.VISIBLE
                     }
                 } else {
                     Log.e("API Error", "Response code: ${response.code()}")
